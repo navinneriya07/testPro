@@ -4,5 +4,8 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiBaseUrl: 'http://10.0.2.27:8080/InterviewPortal/'
+  //apiBaseUrl: 'http://192.168.150.13:9090/foobar/'
+  //apiBaseUrl: 'http://192.168.151.119:8080/k11-examination/'
 };

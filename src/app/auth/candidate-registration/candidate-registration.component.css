@@ -1,0 +1,39 @@
+.candidate-register-form-wrapper {
+    max-width: 900px;
+    width: 100%;
+    margin: 7% auto;
+}
+
+.candidate-register-form-box {
+    color: #fff;
+    padding: 1.5em;
+    margin: 10px auto;
+    background: rgba(0, 0, 0, 0.40);
+}
+
+.form-tagline {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0.6px;
+    padding: 25px 0 10px 0;
+}
+
+.candidate-register-form-box label {
+    font-weight: 300;
+    letter-spacing: 0.5px;
+}
+
+.candidate-register-form-wrapper .form-control {
+    padding: 0.7em 1em;
+    margin: 5px 0 20px 0;
+    color: #fff;
+    width: 100%;
+    background: transparent;
+    border: 1px solid #d9d9ce;
+    font-size: 13px;
+    outline: none;
+    letter-spacing: 0.9px;
+    border-radius: 0;
+    font-weight: 300;
+}
